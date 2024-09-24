@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ADS\\1° Período\\Algoritmos 2\\revisao_Algoritmos1\\revisao_Algoritmos1.csproj": {}
+    "D:\\Arquivos Usuários\\Documents\\GitHub\\Algoritmos_2\\revisao_Algoritmos1\\revisao_Algoritmos1.csproj": {}
   },
   "projects": {
-    "D:\\ADS\\1° Período\\Algoritmos 2\\revisao_Algoritmos1\\revisao_Algoritmos1.csproj": {
+    "D:\\Arquivos Usuários\\Documents\\GitHub\\Algoritmos_2\\revisao_Algoritmos1\\revisao_Algoritmos1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ADS\\1° Período\\Algoritmos 2\\revisao_Algoritmos1\\revisao_Algoritmos1.csproj",
+        "projectUniqueName": "D:\\Arquivos Usuários\\Documents\\GitHub\\Algoritmos_2\\revisao_Algoritmos1\\revisao_Algoritmos1.csproj",
         "projectName": "revisao_Algoritmos1",
-        "projectPath": "D:\\ADS\\1° Período\\Algoritmos 2\\revisao_Algoritmos1\\revisao_Algoritmos1.csproj",
+        "projectPath": "D:\\Arquivos Usuários\\Documents\\GitHub\\Algoritmos_2\\revisao_Algoritmos1\\revisao_Algoritmos1.csproj",
         "packagesPath": "C:\\Users\\Tayná\\.nuget\\packages\\",
-        "outputPath": "D:\\ADS\\1° Período\\Algoritmos 2\\revisao_Algoritmos1\\obj\\",
+        "outputPath": "D:\\Arquivos Usuários\\Documents\\GitHub\\Algoritmos_2\\revisao_Algoritmos1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tayná\\AppData\\Roaming\\NuGet\\NuGet.Config",

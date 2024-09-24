@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ADS\\1\u00B0 Per\u00EDodo\\Algoritmos 2\\revisao_Algoritmos1\\",
+  "WorkspaceRootPath": "D:\\Arquivos Usu\u00E1rios\\Documents\\GitHub\\Algoritmos_2\\revisao_Algoritmos1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2760FCF-673E-4CCD-87F6-AFD6B92B6293}|revisao_Algoritmos1.csproj|d:\\ads\\1\u00B0 per\u00EDodo\\algoritmos 2\\revisao_algoritmos1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2760FCF-673E-4CCD-87F6-AFD6B92B6293}|revisao_Algoritmos1.csproj|d:\\arquivos usu\u00E1rios\\documents\\github\\algoritmos_2\\revisao_algoritmos1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2760FCF-673E-4CCD-87F6-AFD6B92B6293}|revisao_Algoritmos1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ADS\\1\u00B0 Per\u00EDodo\\Algoritmos 2\\revisao_Algoritmos1\\Program.cs",
+              "DocumentMoniker": "D:\\Arquivos Usu\u00E1rios\\Documents\\GitHub\\Algoritmos_2\\revisao_Algoritmos1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\ADS\\1\u00B0 Per\u00EDodo\\Algoritmos 2\\revisao_Algoritmos1\\Program.cs",
+              "ToolTip": "D:\\Arquivos Usu\u00E1rios\\Documents\\GitHub\\Algoritmos_2\\revisao_Algoritmos1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAGwAAAAAAAAAAAAAAHsAAAAAAAAA",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAHkAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T13:50:56.206Z",
               "EditorCaption": ""

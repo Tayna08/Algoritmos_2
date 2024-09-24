@@ -12,3 +12,18 @@ D:\ADS\1° Período\Algoritmos 2\revisao_Algoritmos1\obj\Debug\net8.0\refint\rev
 D:\ADS\1° Período\Algoritmos 2\revisao_Algoritmos1\obj\Debug\net8.0\revisao_Algoritmos1.pdb
 D:\ADS\1° Período\Algoritmos 2\revisao_Algoritmos1\obj\Debug\net8.0\revisao_Algoritmos1.genruntimeconfig.cache
 D:\ADS\1° Período\Algoritmos 2\revisao_Algoritmos1\obj\Debug\net8.0\ref\revisao_Algoritmos1.dll
+D:\Arquivos Usuários\Documents\GitHub\Algoritmos_2\revisao_Algoritmos1\bin\Debug\net8.0\revisao_Algoritmos1.exe
+D:\Arquivos Usuários\Documents\GitHub\Algoritmos_2\revisao_Algoritmos1\bin\Debug\net8.0\revisao_Algoritmos1.deps.json
+D:\Arquivos Usuários\Documents\GitHub\Algoritmos_2\revisao_Algoritmos1\bin\Debug\net8.0\revisao_Algoritmos1.runtimeconfig.json
+D:\Arquivos Usuários\Documents\GitHub\Algoritmos_2\revisao_Algoritmos1\bin\Debug\net8.0\revisao_Algoritmos1.dll
+D:\Arquivos Usuários\Documents\GitHub\Algoritmos_2\revisao_Algoritmos1\bin\Debug\net8.0\revisao_Algoritmos1.pdb
+D:\Arquivos Usuários\Documents\GitHub\Algoritmos_2\revisao_Algoritmos1\obj\Debug\net8.0\revisao_Algoritmos1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos Usuários\Documents\GitHub\Algoritmos_2\revisao_Algoritmos1\obj\Debug\net8.0\revisao_Algoritmos1.AssemblyInfoInputs.cache
+D:\Arquivos Usuários\Documents\GitHub\Algoritmos_2\revisao_Algoritmos1\obj\Debug\net8.0\revisao_Algoritmos1.AssemblyInfo.cs
+D:\Arquivos Usuários\Documents\GitHub\Algoritmos_2\revisao_Algoritmos1\obj\Debug\net8.0\revisao_Algoritmos1.csproj.CoreCompileInputs.cache
+D:\Arquivos Usuários\Documents\GitHub\Algoritmos_2\revisao_Algoritmos1\obj\Debug\net8.0\revisao_Algoritmos1.sourcelink.json
+D:\Arquivos Usuários\Documents\GitHub\Algoritmos_2\revisao_Algoritmos1\obj\Debug\net8.0\revisao_Algoritmos1.dll
+D:\Arquivos Usuários\Documents\GitHub\Algoritmos_2\revisao_Algoritmos1\obj\Debug\net8.0\refint\revisao_Algoritmos1.dll
+D:\Arquivos Usuários\Documents\GitHub\Algoritmos_2\revisao_Algoritmos1\obj\Debug\net8.0\revisao_Algoritmos1.pdb
+D:\Arquivos Usuários\Documents\GitHub\Algoritmos_2\revisao_Algoritmos1\obj\Debug\net8.0\revisao_Algoritmos1.genruntimeconfig.cache
+D:\Arquivos Usuários\Documents\GitHub\Algoritmos_2\revisao_Algoritmos1\obj\Debug\net8.0\ref\revisao_Algoritmos1.dll

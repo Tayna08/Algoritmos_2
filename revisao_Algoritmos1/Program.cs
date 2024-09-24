@@ -120,7 +120,6 @@ switch (op)
         break;
 
     case "7":
-        Console.WriteLine("NÚMEROS PRIMOS");
 
         break;
 }
