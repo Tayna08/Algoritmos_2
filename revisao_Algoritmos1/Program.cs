@@ -121,5 +121,9 @@ switch (op)
 
     case "7":
         Console.WriteLine("NÚMEROS PRIMOS");
+        Console.WriteLine("Digite um número para a verificação");
+        double num_Primo = Convert.ToDouble(Console.ReadLine());
+        double divisao = 0;
+
         break;
 }
